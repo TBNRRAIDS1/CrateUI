@@ -1,12 +1,12 @@
 name: CrateUI
 main: CrateUI\Main
-api: [3.0.0]
+api: 3.0.0
 version: 1.0
 author: GeoZDev, PiyushBest
 
 commands:
  crate:
-  description: "Crate Time
+  description: "Crate Time"
 permissions:
  crate.key:
   description: "get key permission"
