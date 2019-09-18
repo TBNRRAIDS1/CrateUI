@@ -1,8 +1,8 @@
-name: CrateUI
+name: VerifiedCrates
 main: CrateUI\Main
-api: 3.0.0
+api: 3.9.0
 version: 1.0
-author: GeoZDev, PiyushBest
+author: TBNRRAIDS
 
 commands:
  crate:
